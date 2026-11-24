@@ -165,3 +165,6 @@ This file contains the first baseline evaluation results.
 Successfully created a golden question set and implemented an automated baseline evaluation pipeline using a locally running Llama 3.2 model.
 
 The experiment establishes **Release v0.1**, providing an initial baseline for evaluating LLM-generated answers using keyword coverage.
+
+
+Jaswanth Bhaskar B
